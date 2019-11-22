@@ -5,6 +5,7 @@ public class FirstMethod {
 		// TODO Auto-generated method stub
 		System.out.println("Hello Method");
 		System.out.println(Math.floor(1.1));
+		
 	}
 
 }
